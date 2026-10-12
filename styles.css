@@ -293,7 +293,7 @@ body {
     /* border-sky-700 */
 }
 .travellers__grid {
-  margin-top: 4rem;
+  /* margin-top: 2rem; */
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 2rem;
