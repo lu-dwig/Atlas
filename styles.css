@@ -447,7 +447,7 @@ img:hover {
   }
 
   .plan__grid {
-    grid-template-columns: repeat(1fr, 1);
+    grid-template-columns: repeat(1, 1fr);
   }
 
   .plan__image {
